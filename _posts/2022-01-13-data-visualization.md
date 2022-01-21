@@ -93,6 +93,5 @@ fig.show()
 # save the plot
 from plotly.io import write_html
 write_html(fig, "hist_plot.html")
-```
 {% include hist_plot.html %}
 
